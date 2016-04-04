@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "FantasyTeam.Baseball"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-FantasyTeam.Baseball-3b1fa1ce-522d-498a-9bf6-a2e93ee9a3d5;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
